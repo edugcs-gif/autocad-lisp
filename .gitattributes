@@ -1,0 +1,12 @@
+# AutoCAD roda no Windows: manter CRLF nos fontes
+*.lsp text eol=crlf
+*.dcl text eol=crlf
+*.scr text eol=crlf
+*.mnl text eol=crlf
+*.cuix binary
+
+# Binarios
+*.fas binary
+*.vlx binary
+*.dwg binary
+*.dwt binary

@@ -1,0 +1,15 @@
+# Backups e arquivos temporarios do AutoCAD
+*.bak
+*.sv$
+*.ac$
+*.dwl
+*.dwl2
+*.err
+*.log
+
+# Compilados (gerar localmente / distribuir via Releases)
+build/
+
+# Windows
+Thumbs.db
+desktop.ini
